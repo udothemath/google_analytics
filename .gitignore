@@ -1,4 +1,7 @@
-[200~# Customized selection
+# Customized selection
+
+input/
+.ipynb_checkpoints/
 
 *.sas7bdat
 
